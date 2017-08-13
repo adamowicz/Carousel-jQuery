@@ -1,0 +1,28 @@
+body {
+  background-color: white;
+  margin: 0; }
+
+div#carousel {
+  margin: 100px auto;
+  height: 700px;
+  width: 1200px;
+  overflow: hidden;
+  border: 5px solid grey; }
+
+ul {
+  width: 6000px;
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0; }
+
+li {
+  list-style-type: none;
+  float: left;
+  height: 700px;
+  width: 1200px;
+  margin: 0; }
+
+img {
+  margin: 0; }
+
+/*# sourceMappingURL=style.css.map */
